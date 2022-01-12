@@ -1,6 +1,10 @@
 ## Scripts disponívéis
 
-Pra executar o projeto execute o comando:
+Para instalar as dependências do projeto execute o comando:
+
+### `yarn`
+
+Para executar o projeto execute o comando:
 
 ### `yarn start`
 
